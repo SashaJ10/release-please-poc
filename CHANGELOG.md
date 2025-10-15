@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/SashaJ10/release-please-poc/compare/release-please-poc-v1.0.0...release-please-poc-v1.1.0) (2025-10-15)
+
+
+### Features
+
+* add Navbar component2 ([#4](https://github.com/SashaJ10/release-please-poc/issues/4)) ([38a666d](https://github.com/SashaJ10/release-please-poc/commit/38a666d094ee9081eda407916273faea045a9fe5))
+
 ## 1.0.0 (2025-10-15)
 
 
