@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.0.0](https://github.com/SashaJ10/release-please-poc/compare/release-please-poc-v2.0.0...release-please-poc-v3.0.0) (2025-10-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove old API method ([#11](https://github.com/SashaJ10/release-please-poc/issues/11))
+
+### Bug Fixes
+
+* remove old API method ([#11](https://github.com/SashaJ10/release-please-poc/issues/11)) ([a4fb7a0](https://github.com/SashaJ10/release-please-poc/commit/a4fb7a0831320d110af474a0b40959b2f5275e5b))
+
 ## [2.0.0](https://github.com/SashaJ10/release-please-poc/compare/release-please-poc-v1.1.1...release-please-poc-v2.0.0) (2025-10-15)
 
 
