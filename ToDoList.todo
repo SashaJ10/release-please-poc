@@ -1,3 +1,4 @@
 ToDoList
 - Remember how to manage the fix/feat/feat! nomenclature with our as ARB-123
 - Remember to DON'T USE squash and merge when the Pr is ready to merge to update the version from release-please
+[IMPORTANT] - Keep in mind that is very important to use the colon after the nomenclature. Ex: fix:, feat!:
