@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/SashaJ10/release-please-poc/compare/release-please-poc-v1.1.0...release-please-poc-v1.1.1) (2025-10-15)
+
+
+### Bug Fixes
+
+* correct navBar alignment ([#6](https://github.com/SashaJ10/release-please-poc/issues/6)) ([e921c86](https://github.com/SashaJ10/release-please-poc/commit/e921c861f099f40745b3d99f10d7a61974f6f5b6))
+
 ## [1.1.0](https://github.com/SashaJ10/release-please-poc/compare/release-please-poc-v1.0.0...release-please-poc-v1.1.0) (2025-10-15)
 
 
