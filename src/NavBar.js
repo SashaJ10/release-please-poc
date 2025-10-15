@@ -1,6 +1,6 @@
 function NavBar() {
   return (
-    <nav>
+    <nav style={{ backgroundColor: "red" }}>
       <ul>
         <li>
           <a href="/">Home2</a>
