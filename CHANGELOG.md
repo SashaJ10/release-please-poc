@@ -1,5 +1,19 @@
 # Changelog
 
+## [3.1.0](https://github.com/SashaJ10/release-please-poc/compare/release-please-poc-v3.0.1...release-please-poc-v3.1.0) (2025-10-15)
+
+
+### Features
+
+* Improve test component ([#18](https://github.com/SashaJ10/release-please-poc/issues/18)) ([8c8d35f](https://github.com/SashaJ10/release-please-poc/commit/8c8d35f4b8afbc0ec527a9f24bac0d5c6df25431))
+* Improve2 test component ([#19](https://github.com/SashaJ10/release-please-poc/issues/19)) ([131410e](https://github.com/SashaJ10/release-please-poc/commit/131410e563a7245c6ac76c74665ee47484a4e9b7))
+
+
+### Bug Fixes
+
+* Improve test component ([#15](https://github.com/SashaJ10/release-please-poc/issues/15)) ([c67e45b](https://github.com/SashaJ10/release-please-poc/commit/c67e45baa1cf785a57803978cff35e85e8288c09))
+* Improve2 test component ([#17](https://github.com/SashaJ10/release-please-poc/issues/17)) ([88f9236](https://github.com/SashaJ10/release-please-poc/commit/88f923660131331c7f60e6504870b70158433c78))
+
 ## [3.0.1](https://github.com/SashaJ10/release-please-poc/compare/release-please-poc-v3.0.0...release-please-poc-v3.0.1) (2025-10-15)
 
 
